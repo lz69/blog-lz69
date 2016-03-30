@@ -1,0 +1,56 @@
+[articles]
+#    read_more = "Read more"
+    read_more = "阅读更多"
+#    words = "words"
+    words = "字"
+#    readingtime = "minute read"
+    readingtime = "分钟 阅读时间"
+#    share = "Share"
+    share = "分享"
+#    comments = "Comments"
+    comments = "评论"
+
+# Linked older/newer posts at the bottom of each one
+[articles.linked_posts]
+#    older = "Older"
+    older = "上一篇"
+#    newer = "Newer"
+    newer = "下一篇"
+
+[search]
+#    placeholder = "Search"
+    placeholder = "搜索"
+
+[pagination]
+#    previous = "Prev"
+    previous = "上一页"
+#    next = "Next"
+    next = "下一页"
+
+[profile]
+#    follow_button = "Follow"
+    follow_button = "点赞"
+#    tags = "Tags"
+    tags = "标签数"
+#    posts = "Posts"
+    posts = "文章数"
+
+[page_not_found]
+    title = "404 - page not found"
+    subtitle = "The content you're looking for doesn't seem to exist."
+
+[widgets.categories]
+#    title = "Categories"
+    title = "分类"
+
+[widgets.recent_articles]
+#    title = "Recents"
+    title = "最近的文章"
+
+[widgets.tag_cloud]
+#    title = "Tag cloud"
+    title = "标签库"
+
+[widgets.tags]
+#    title = "Tags"
+    title = "标签"
