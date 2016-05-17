@@ -2,7 +2,7 @@
 title = "Web前端之HTML,XHTML和HTML5"
 date = "2016-03-24T14:03:11+08:00"
 tags = ["Web前端"]
-categories = ["技术相关"]
+categories = ["Web前端"]
 menu = ""
 +++
 

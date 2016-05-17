@@ -1,8 +1,8 @@
 +++
 title = "Android适配相关"
 date = "2016-04-06T14:35:33+08:00"
-tags = ["Android"]
-categories = ["技术相关"]
+##tags = ["Android"]
+##categories = ["Android"]
 menu = ""
 +++
 

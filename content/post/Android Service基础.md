@@ -2,7 +2,7 @@
 title = "Android Service基础"
 date = "2016-04-19T09:52:33+08:00"
 tags = ["Android"]
-categories = ["技术相关"]
+categories = ["Android"]
 menu = ""
 +++
 

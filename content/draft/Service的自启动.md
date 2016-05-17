@@ -1,8 +1,8 @@
 +++
 title = "Service的自启动"
 date = "2016-04-01T13:54:48+08:00"
-tags = ["Android"]
-categories = ["技术相关"]
+##tags = ["Android"]
+##categories = ["Android"]
 menu = ""
 +++
 

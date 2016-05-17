@@ -2,7 +2,7 @@
 title = "Web前端之JavaScript，DOM，jQuery，AJAX和JSON"
 date = "2016-03-29T15:41:05+08:00"
 tags = ["Web前端"]
-categories = ["技术相关"]
+categories = ["Web前端"]
 menu = ""
 +++
 

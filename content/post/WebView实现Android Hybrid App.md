@@ -2,7 +2,7 @@
 title = "WebView实现Android Hybrid App"
 date = "2016-03-16T15:38:50+08:00"
 tags = ["Android"]
-categories = ["技术相关"]
+categories = ["Android"]
 menu = ""
 banner = "http://7xrnow.com1.z0.glb.clouddn.com/blog_banner_webview.jpg"
 +++

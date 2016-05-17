@@ -2,7 +2,6 @@
 title = "关于我"
 date = "2016-03-02T17:44:00+08:00"
 tags = ["生活"]
-categories = ["生活"]
 menu = "main"
 banner = "banners/placeholder.png"
 +++

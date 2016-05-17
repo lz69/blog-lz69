@@ -2,7 +2,7 @@
 title = "Android实现接听系统电话的研究"
 date = "2016-03-17T15:16:50+08:00"
 tags = ["Android"]
-categories = ["技术相关"]
+categories = ["Android"]
 menu = ""
 +++
 

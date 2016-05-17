@@ -2,7 +2,7 @@
 title = "Linux相关总结---第0篇---shell基础语法"
 date = "2016-03-07T17:35:33+08:00"
 tags = ["linux"]
-categories = ["技术相关"]
+categories = ["Linux"]
 menu = ""
 banner = "http://7xrnow.com1.z0.glb.clouddn.com/blog_shell.png"
 +++
