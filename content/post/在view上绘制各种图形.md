@@ -1,8 +1,8 @@
 +++
 title = "在View上绘制各种图形"
 date = "2016-06-02T14:35:33+08:00"
-##tags = ["Android"]
-##categories = ["Android"]
+tags = ["Android"]
+categories = ["Android"]
 menu = ""
 +++
 
