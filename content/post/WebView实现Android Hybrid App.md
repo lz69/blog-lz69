@@ -191,5 +191,19 @@ Web的崩溃导致整个应用崩溃，有一些手机再次载入网页出现�
 
     System.exit(0);
 
+### 有时需要给WebView添加cookie
+
+表现为:
+WebView不像iOS一样同步网络请求的Cookie，需要自行添加Cookie
+
+解决办法:
+自行添加Cookie如下:
+
+    CookieManager cookieManager = CookieManager.getInstance();
+    cookieManager.setAcceptCookie(true);
+    cookieManager.removeAllCookie();
+    cookieManager.setCookie(url, cookieString);
+    CookieSyncManager.getInstance().sync();
+    
 ## 8. Demo地址
 https://github.com/lz69/WebViewSummary-Demo
